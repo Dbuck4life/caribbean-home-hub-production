@@ -61,8 +61,6 @@
     "is-arrayish": "^0.3.2",
     "jiti": "^2.4.2",
     "jose": "^4.15.9",
-    
-    
     "lru-cache": "^6.0.0",
     "lucide-react": "^0.511.0",
     "magic-string": "^0.30.17",
@@ -91,6 +89,7 @@
     "streamsearch": "^1.1.0",
     "stripe": "^18.2.1",
     "styled-jsx": "^5.1.6",
+    "tailwindcss": "^3.4.17",
     "tapable": "^2.2.2",
     "tar": "^7.4.3",
     "tslib": "^2.8.1",
@@ -108,13 +107,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.10",
     "@types/node": "^24.0.1",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.5",
-    "tailwindcss": "^4.1.10",
+    "postcss": "^8.5.6",
     "typescript": "^5.8.3"
   }
 }
